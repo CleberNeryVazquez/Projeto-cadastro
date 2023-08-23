@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1669079554 source:c:\users\joao\desktop\tad projeto pim\listausuario\main.c
+	"ListaUsuarios.h"
+
+1669070855 c:\users\joao\desktop\tad projeto pim\listausuario\listausuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1669079528 source:c:\users\joao\desktop\tad projeto pim\listausuario\listausuarios.c
+	"ListaUsuarios.h"
+

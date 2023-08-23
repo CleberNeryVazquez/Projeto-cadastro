@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1669083339 source:c:\users\joao\desktop\tad projeto pim\projetocadastro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDupla.h"
+
+1669169755 source:c:\users\joao\desktop\tad projeto pim\projetocadastro\listadupla.c
+	"ListaDupla.h"
+
+1669159432 c:\users\joao\desktop\tad projeto pim\projetocadastro\listadupla.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<inttypes.h>
+	<time.h>
+
